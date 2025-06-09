@@ -73,4 +73,3 @@ Buka browser dan akses alamat `http://127.0.0.1:5000` untuk melihat aplikasi ber
 [cite_start]├── requirements.txt     # Daftar semua dependensi Python [cite: 11]
 [cite_start]└── setup.py             # Script untuk membuat proyek ini sebagai package Python [cite: 12]
 ```
-```
